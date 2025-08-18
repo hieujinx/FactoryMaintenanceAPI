@@ -1,0 +1,6 @@
+@DaoMinhHieu0021867_HostAddress = http://localhost:5278
+
+GET {{DaoMinhHieu0021867_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
